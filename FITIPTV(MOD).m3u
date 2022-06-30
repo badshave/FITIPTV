@@ -1,0 +1,1169 @@
+#EXTM3U
+#EXTPARAMS:NET=6500
+#EXTINF:-1 group-title="RACING",UK: At The Races
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27036.ts
+#EXTINF:-1,SKY SPORTS RACING
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27098.ts
+#EXTINF:-1,UK: Racing TV (Backup)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/77.ts
+#EXTINF:-1,UK: Racing SD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27069.ts
+#EXTINF:-1,UK: MUTV
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/208.ts
+#EXTINF:-1 group-title="SKY SPORTS",VIP Sky Sports Main Events
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28388.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+#EXTVLCOPT:program=1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27097.ts
+#EXTINF:-1,Sky Sports Premier League
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28390.ts
+#EXTINF:-1,Sky Sports Premier League
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/158439.ts
+#EXTINF:-1,VIP Sky Sports Football
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28391.ts
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27095.ts
+#EXTINF:-1,VIP Sky Sport Arena
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28389.ts
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27090.ts
+#EXTINF:-1,VIP Sky Sports News
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28386.ts
+#EXTINF:-1,VIP Sky Sports Mix
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28387.ts
+#EXTINF:-1,VIP Sky Sports F1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28392.ts
+#EXTINF:-1,VIP Sky Sports Golf
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28393.ts
+#EXTINF:-1,VIP Sky Sports Cricket
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28394.ts
+#EXTINF:-1,SKY SPORTS NFL HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27087.ts
+#EXTINF:-1,SKY SPORTS CRICKET
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27093.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET (BACKUP)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/242617.ts
+#EXTINF:-1,SKY SPORTS F1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27094.ts
+#EXTINF:-1,SKY SPORTS GOLF
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27096.ts
+#EXTINF:-1,SKY SPORTS MIX
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27099.ts
+#EXTINF:-1,THAI: UK SKY SPORTS EPL | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286549.ts
+#EXTINF:-1,THAI: UK SKY SPORTS NEWS | SD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286550.ts
+#EXTINF:-1,THAI: UK SKY SPORTS MIX | SD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286551.ts
+#EXTINF:-1,THAI: UK SKY SPORTS MAIN EVENT | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286552.ts
+#EXTINF:-1,THAI: UK SKY SPORTS GOLF | UHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286553.ts
+#EXTINF:-1,THAI: UK SKY SPORTS FOOTBALL | UHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286554.ts
+#EXTINF:-1,THAI: UK SKY SPORTS F1 | UHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286555.ts
+#EXTINF:-1,THAI: UK SKY SPORTS ARENA | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286556.ts
+#EXTINF:-1,THAI: RS ARENA SPORT 2 | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286557.ts
+#EXTINF:-1,THAI: RS ARENA SPORT 3 | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286558.ts
+#EXTINF:-1 group-title="BT",BT SPORT 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/69.ts
+#EXTINF:-1,VIP BT Sport 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28395.ts
+#EXTINF:-1,THAI: UK BTSPORT 1 | UHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286548.ts
+#EXTINF:-1,BT SPORT 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27040.ts
+#EXTINF:-1,VIP BT Sport 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28396.ts
+#EXTINF:-1,BT SPORT 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27041.ts
+#EXTINF:-1,VIP BT Sport 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28397.ts
+#EXTINF:-1,VIP BT Sport ESPN
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28398.ts
+#EXTINF:-1,BT Sport ESPN
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/70.ts
+#EXTINF:-1,BT SPORT EXTRA 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27044.ts
+#EXTINF:-1,BT SPORT EXTRA 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27045.ts
+#EXTINF:-1,BT SPORT EXTRA 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27046.ts
+#EXTINF:-1,BT SPORT EXTRA 5
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27048.ts
+#EXTINF:-1 group-title="BEIN",VIP BeIN Sports 11
+#EXTVLCOPT:program=1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28425.ts
+#EXTINF:-1,AR: BEIN SPORTS 11
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/17032.ts
+#EXTINF:-1,VIP US: beIN Sports 11
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/32592.ts
+#EXTINF:-1,beIN Sports 11
+#EXTVLCOPT:program=1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/37893.ts
+#EXTINF:-1,UK: beIN Sports 12 | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/14249.ts
+#EXTINF:-1,VIP US: beIN Sports 12
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/32593.ts
+#EXTINF:-1,AR: BEIN SPORTS 12
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/17033.ts
+#EXTINF:-1,VIP BeIN Sports 12
+#EXTVLCOPT:program=1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28426.ts
+#EXTINF:-1,VIP BeIN Sports 13
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28427.ts
+#EXTINF:-1,VIP US: beIN Sports 13
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/32594.ts
+#EXTINF:-1,VIP BeIN Sports 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28415.ts
+#EXTINF:-1,VIP BeIN Sports 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28416.ts
+#EXTINF:-1,VIP BeIN Sports 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28417.ts
+#EXTINF:-1,VIP BeIN Sports 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28418.ts
+#EXTINF:-1,VIP BeIN Sports 5
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28419.ts
+#EXTINF:-1,VIP BeIN Sports 6
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28420.ts
+#EXTINF:-1,VIP BeIN Sports 7
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28421.ts
+#EXTINF:-1,VIP BeIN Sports 8
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28422.ts
+#EXTINF:-1,VIP BeIN Sports 9
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28423.ts
+#EXTINF:-1,VIP BeIN Sports 10
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28424.ts
+#EXTINF:-1,VIP BeIN Sports USA
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28428.ts
+#EXTINF:-1,AR: BEIN SPORTS 10
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/17031.ts
+#EXTINF:-1,AR: BEIN SPORTS 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/17022.ts
+#EXTINF:-1,AR: BEIN SPORTS 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/17023.ts
+#EXTINF:-1,AR: BEIN SPORTS 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/17024.ts
+#EXTINF:-1,AR: BEIN SPORTS 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/17025.ts
+#EXTINF:-1,AR: BEIN SPORTS 5
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/17026.ts
+#EXTINF:-1,AR: BEIN SPORTS 6
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/17027.ts
+#EXTINF:-1,AR: BEIN SPORTS 7
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/17028.ts
+#EXTINF:-1,AR: BEIN SPORTS 8
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/17029.ts
+#EXTINF:-1,OSN_MOVIES HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/17052.ts
+#EXTINF:-1,VIP US: beIN Sports 01
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/32582.ts
+#EXTINF:-1,VIP US: beIN Sports 02
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/32583.ts
+#EXTINF:-1,VIP US: beIN Sports 03
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/32584.ts
+#EXTINF:-1,VIP US: beIN Sports 04
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/32585.ts
+#EXTINF:-1,VIP US: beIN Sports 05
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/32586.ts
+#EXTINF:-1,VIP US: beIN Sports 06
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/32587.ts
+#EXTINF:-1,VIP US: beIN Sports 07
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/32588.ts
+#EXTINF:-1,VIP US: beIN Sports 08
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/32589.ts
+#EXTINF:-1,US: beIN Sports 09
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/32590.ts
+#EXTINF:-1,VIP US: beIN Sports 10
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/32591.ts
+#EXTINF:-1,beIN Sports 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/14239.ts
+#EXTINF:-1,beIN Sports 10
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/14248.ts
+#EXTINF:-1,beIN Sports 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/14240.ts
+#EXTINF:-1,beIN Sports 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/14241.ts
+#EXTINF:-1,beIN Sports 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/14242.ts
+#EXTINF:-1,beIN Sports 5
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/14243.ts
+#EXTINF:-1,beIN Sports 6
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/14244.ts
+#EXTINF:-1,beIN Sports 7
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/14245.ts
+#EXTINF:-1,beIN Sports 8
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/14246.ts
+#EXTINF:-1,beIN Sports 9
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/14247.ts
+#EXTINF:-1,beIN Sports En Espanyol
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/14250.ts
+#EXTINF:-1,beIN Sports La Liga
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/14251.ts
+#EXTINF:-1,beIN Sports USA
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/14238.ts
+#EXTINF:-1 group-title="SUPESPORT",ZA: SuperSport Football HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297764.ts
+#EXTINF:-1,ZA: SuperSport Rugby HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297765.ts
+#EXTINF:-1,ZA: SuperSport Variety 3 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297766.ts
+#EXTINF:-1,ZA: SuperSport Variety 4 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297767.ts
+#EXTINF:-1,ZA: SuperSport Tennis HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297768.ts
+#EXTINF:-1,ZA: SuperSport Action HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297769.ts
+#EXTINF:-1,ZA: SuperSport Motorsport HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297770.ts
+#EXTINF:-1,ZA: SuperSport Variety 2 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297771.ts
+#EXTINF:-1,ZA: SuperSport Cricket HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297772.ts
+#EXTINF:-1,ZA: SuperSport Premier League HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297773.ts
+#EXTINF:-1,ZA: SuperSport PSL HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297774.ts
+#EXTINF:-1,ZA: SuperSport LaLiga HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297775.ts
+#EXTINF:-1,ZA: SuperSport Blitz HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297776.ts
+#EXTINF:-1,ZA: SuperSport Maximo HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297777.ts
+#EXTINF:-1 group-title="RMC",RMC SPORT 1 FHD
+#EXTVLCOPT:program=1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3622.ts
+#EXTINF:-1,RMC SPORT 2 FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3623.ts
+#EXTINF:-1,RMC SPORT 3 FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3624.ts
+#EXTINF:-1,RMC SPORT 4 FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3625.ts
+#EXTINF:-1,RMC Sport 1 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3626.ts
+#EXTINF:-1,RMC Sport 3 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3628.ts
+#EXTINF:-1,RMC Sport 4 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3629.ts
+#EXTINF:-1,RMC Sport 1 Access HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3630.ts
+#EXTINF:-1,RMC Sport 2 Access HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3631.ts
+#EXTINF:-1,RMC Sport 3 Access HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3632.ts
+#EXTINF:-1,RMC Sport Live 5 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3633.ts
+#EXTINF:-1,RMC Sport Live 6 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3634.ts
+#EXTINF:-1,RMC Sport Live 7 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3635.ts
+#EXTINF:-1,RMC Sport Live 8 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3636.ts
+#EXTINF:-1,RMC Sport Live 9 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3637.ts
+#EXTINF:-1,RMC Sport Live 10 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3638.ts
+#EXTINF:-1 group-title="Germany",DE | Sky Sport 1 HD (Backup)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/1353.ts
+#EXTINF:-1,DE | Sky Sport 1 FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/1354.ts
+#EXTINF:-1,DE | Sky Sport 1 (Backup)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/1402.ts
+#EXTINF:-1,DE | Sky Sport 2 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/1355.ts
+#EXTINF:-1,DE | Sky Sport 2 FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/1356.ts
+#EXTINF:-1,DE | Sky Sport 2 SD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/1401.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 1 SD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298220.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 2 SD (ONLY ON MATCHDAYS)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298221.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 3 SD (ONLY ON MATCHDAYS)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298222.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 4 SD (ONLY ON MATCHDAYS)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298223.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 5 SD (ONLY ON MATCHDAYS)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298224.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 6 SD (ONLY ON MATCHDAYS)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298225.ts
+#EXTINF:-1,DE | Sky Bundesliga 1 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298226.ts
+#EXTINF:-1,DE | Sky Bundesliga 2 HD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298227.ts
+#EXTINF:-1,DE | Sky Bundesliga 3 HD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298228.ts
+#EXTINF:-1,DE | Sky Bundesliga 4 HD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298229.ts
+#EXTINF:-1,DE | Sky Bundesliga 5 HD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298230.ts
+#EXTINF:-1,DE | Sky Bundesliga 6 HD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298231.ts
+#EXTINF:-1,DE | Sky Bundesliga 7 HD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298232.ts
+#EXTINF:-1,DE | Sky Bundesliga 8 HD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298233.ts
+#EXTINF:-1,DE | Sky Bundesliga 9 HD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298234.ts
+#EXTINF:-1,DE | Sky Bundesliga 10 HD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298235.ts
+#EXTINF:-1,DE | Sky Bundesliga 1 FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298236.ts
+#EXTINF:-1,DE | Sky Bundesliga 2 FHD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298237.ts
+#EXTINF:-1,DE | Sky Bundesliga 3 FHD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298238.ts
+#EXTINF:-1,DE | Sky Bundesliga 4 FHD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298239.ts
+#EXTINF:-1,DE | Sky Bundesliga 5 FHD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298240.ts
+#EXTINF:-1,DE | Sky Bundesliga 6 FHD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298241.ts
+#EXTINF:-1,DE | Sky Bundesliga 7 FHD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298242.ts
+#EXTINF:-1,DE | Sky Bundesliga 8 FHD (ONLY ON MATCHDAY)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298243.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 1 FHD+
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298244.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 2 FHD+ (During Games only)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298245.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 3 FHD+ (During Games only)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298246.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 4 FHD+ (During Games only)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298247.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 5 FHD+ (During Games only)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298248.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 6 FHD+ (During Games only)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298249.ts
+#EXTINF:-1 group-title="Netherlands",NL: FOX SPORTS 1 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/4667.ts
+#EXTINF:-1,NL: FOX SPORTS 2 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/4669.ts
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/4672.ts
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/4673.ts
+#EXTINF:-1,NL: FOX SPORTS 5 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/4675.ts
+#EXTINF:-1,NL: FOX SPORTS 6 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/4678.ts
+#EXTINF:-1,NL HEVC: ZIGGO SPORT SELECT
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/4698.ts
+#EXTINF:-1,NL HEVC: ZIGGO SPORT VOETBAL
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/4699.ts
+#EXTINF:-1 group-title="NBCSN",VIP US: NBCSN HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/32736.ts
+#EXTINF:-1,US: NBCSN HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298218.ts
+#EXTINF:-1,NBC Sports Gold 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286918.ts
+#EXTINF:-1,NBC Sports Gold 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286919.ts
+#EXTINF:-1,NBC Sports Gold 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286920.ts
+#EXTINF:-1,NBC Sports Gold 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286921.ts
+#EXTINF:-1,NBC Sports Gold 5
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286922.ts
+#EXTINF:-1,NBC Sports Gold 6
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286923.ts
+#EXTINF:-1,NBC Sports Gold 7
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286924.ts
+#EXTINF:-1,NBC Sports Gold 8
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286925.ts
+#EXTINF:-1,NBC Sports Gold 9
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286926.ts
+#EXTINF:-1 group-title="DAZN",CA: DAZN 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286911.ts
+#EXTINF:-1,CA: DAZN 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286912.ts
+#EXTINF:-1,CA: DAZN 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286913.ts
+#EXTINF:-1,CA: DAZN 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286914.ts
+#EXTINF:-1,CA: DAZN 5
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286915.ts
+#EXTINF:-1,CA: DAZN 6
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286916.ts
+#EXTINF:-1,IT: DAZN 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/287340.ts
+#EXTINF:-1,IT: DAZN 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/287341.ts
+#EXTINF:-1,IT DAZN 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297323.ts
+#EXTINF:-1,IT DAZN Sport 1 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297324.ts
+#EXTINF:-1,IT DAZN Sport 2 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297325.ts
+#EXTINF:-1,IT DAZN Sport 3 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297326.ts
+#EXTINF:-1,IT DAZN Sport 4 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297327.ts
+#EXTINF:-1,IT DAZN Sport 5 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297328.ts
+#EXTINF:-1,IT DAZN Sport 6 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297329.ts
+#EXTINF:-1,IT DAZN Sport 7 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297330.ts
+#EXTINF:-1,IT DAZN Sport 8 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297331.ts
+#EXTINF:-1,IT DAZN Sport 9 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297332.ts
+#EXTINF:-1,ES | DAZN SPORTS 1 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30653.ts
+#EXTINF:-1,ES | DAZN SPORTS 2 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30654.ts
+#EXTINF:-1,ES | DAZN SPORTS 3 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30655.ts
+#EXTINF:-1,ES: DAZN 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298311.ts
+#EXTINF:-1,ES DAZN 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298312.ts
+#EXTINF:-1,ES: DAZN 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298313.ts
+#EXTINF:-1,ES DAZN 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298314.ts
+#EXTINF:-1,ES: DAZN FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298315.ts
+#EXTINF:-1,ES DAZN FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/298316.ts
+#EXTINF:-1,SP: ES: Dazn 01 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297605.ts
+#EXTINF:-1,SP: ES: Dazn 02 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297606.ts
+#EXTINF:-1,SP: ES: Dazn 03 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297607.ts
+#EXTINF:-1,SP: ES: Dazn 04 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297608.ts
+#EXTINF:-1,SP: ES: Dazn 05 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297609.ts
+#EXTINF:-1,SP: ES: Dazn 06 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297610.ts
+#EXTINF:-1,SP: ES: Dazn 07 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297611.ts
+#EXTINF:-1,SP: ES: Dazn 08 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297612.ts
+#EXTINF:-1,SP: ES: Dazn 09 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297613.ts
+#EXTINF:-1,SP: ES: Dazn 10 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297614.ts
+#EXTINF:-1,SP: ES: Dazn 11 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297615.ts
+#EXTINF:-1,SP: ES: Dazn 12 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297616.ts
+#EXTINF:-1,SP: ES: Dazn 13 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297617.ts
+#EXTINF:-1,SP: ES: Dazn 14 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297618.ts
+#EXTINF:-1,SP: ES: Dazn 16 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297619.ts
+#EXTINF:-1,SP: ES: Dazn 17 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297620.ts
+#EXTINF:-1,SP: ES: Dazn 18 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297621.ts
+#EXTINF:-1,SP: ES: Dazn 19 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297622.ts
+#EXTINF:-1,SP: ES: Dazn 20 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297623.ts
+#EXTINF:-1,SP: ES: Dazn 21 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297624.ts
+#EXTINF:-1,SP: ES: Dazn 22 (Eventos)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297625.ts
+#EXTINF:-1 group-title="Thai EPL",THAI: EPL BEIN2 | SD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286506.ts
+#EXTINF:-1,THAI: EPL X1 | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286530.ts
+#EXTINF:-1,THAI: EPL X2 | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286534.ts
+#EXTINF:-1,THAI: EPL X3 | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286535.ts
+#EXTINF:-1,THAI: EPL X4 | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286536.ts
+#EXTINF:-1,THAI: EPL X5 | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286537.ts
+#EXTINF:-1,THAI: MUTV | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/286540.ts
+#EXTINF:-1 group-title="EURO SPORTS",*--- SPORTS ---*
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/214269.ts
+#EXTINF:-1,MySports 1 FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297369.ts
+#EXTINF:-1,MySports 2 FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297370.ts
+#EXTINF:-1,MySports 4 FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297371.ts
+#EXTINF:-1,MySports 5 FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297372.ts
+#EXTINF:-1,MySports 6 FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297373.ts
+#EXTINF:-1,MySports 7 FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297374.ts
+#EXTINF:-1,MySports 8 FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297375.ts
+#EXTINF:-1,MySports 9 FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/297376.ts
+#EXTINF:-1,VIP Arena Sport 1 srb FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28333.ts
+#EXTINF:-1,VIP Arena Sport 2 srb FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28334.ts
+#EXTINF:-1,VIP Arena Sport 3 srb FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28335.ts
+#EXTINF:-1,VIP Arena Sport 4 srb FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28336.ts
+#EXTINF:-1,VIP Arena Sport 5 srb FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28337.ts
+#EXTINF:-1,VIP Arena Sport 1 Srb
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28338.ts
+#EXTINF:-1,VIP Arena Sport 2 Srb
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28339.ts
+#EXTINF:-1,VIP Arena Sport 3 Srb
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28340.ts
+#EXTINF:-1,VIP Arena Sport 4 Srb
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28341.ts
+#EXTINF:-1,VIP Arena Sport 5 Srb
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28342.ts
+#EXTINF:-1,VIP Arena Sport 1 HD Hr
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28343.ts
+#EXTINF:-1,VIP Arena Sport 2 HD Hr
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28344.ts
+#EXTINF:-1,VIP Arena Sport 3 HD Hr
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28345.ts
+#EXTINF:-1,VIP Arena Sport 4 HD Hr
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28346.ts
+#EXTINF:-1,VIP Arena Sport 5 HD Hr
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28347.ts
+#EXTINF:-1,VIP Arena Sport 6 HR
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28348.ts
+#EXTINF:-1,VIP Arena Sport  BIH
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28349.ts
+#EXTINF:-1,VIP Sport Klub HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28350.ts
+#EXTINF:-1,VIP Sport Klub 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28351.ts
+#EXTINF:-1,VIP Sport Klub 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28352.ts
+#EXTINF:-1,VIP Sport Klub 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28353.ts
+#EXTINF:-1,VIP Sport Klub 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28354.ts
+#EXTINF:-1,VIP Sport Klub 5
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28355.ts
+#EXTINF:-1,VIP Sport Klub 6
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28356.ts
+#EXTINF:-1,VIP Sos
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28357.ts
+#EXTINF:-1,VIP HnTv
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28358.ts
+#EXTINF:-1,VIP Nova Sport
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28359.ts
+#EXTINF:-1,VIP Planet Sport 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28360.ts
+#EXTINF:-1,VIP Planet Sport 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28361.ts
+#EXTINF:-1,VIP Eurosport 1 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28362.ts
+#EXTINF:-1,VIP Eurosport 2 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28363.ts
+#EXTINF:-1,VIP TSN 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28365.ts
+#EXTINF:-1,VIP TSN 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28366.ts
+#EXTINF:-1,VIP TSN 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28367.ts
+#EXTINF:-1,VIP TSN 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28368.ts
+#EXTINF:-1,VIP TSN 5
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28369.ts
+#EXTINF:-1,VIP ESPN News
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28370.ts
+#EXTINF:-1,VIP ESPN
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28371.ts
+#EXTINF:-1,VIP ESPN 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28372.ts
+#EXTINF:-1,VIP ESPN U
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28373.ts
+#EXTINF:-1,VIP Sportsnet 360
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28374.ts
+#EXTINF:-1,VIP Sportsnet One
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28375.ts
+#EXTINF:-1,VIP SportsNet West
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28376.ts
+#EXTINF:-1,VIP SportsNet East
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28377.ts
+#EXTINF:-1,VIP Sportsnet World
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28378.ts
+#EXTINF:-1,VIP NFL Network
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28379.ts
+#EXTINF:-1,VIP NFL Redzone
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28325461.ts
+#EXTINF:-1,VIP NHL Network
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28381.ts
+#EXTINF:-1,VIP NBA TV
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28382.ts
+#EXTINF:-1,VIP Tennis Channel
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28383.ts
+#EXTINF:-1,VIP Fox Sport 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28384.ts
+#EXTINF:-1,VIP Fox Sport 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28385.ts
+#EXTINF:-1,VIP Sky Sport 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28401.ts
+#EXTINF:-1,VIP Sky Sport 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28402.ts
+#EXTINF:-1,VIP Sky Sport Bundesliga 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28403.ts
+#EXTINF:-1,VIP Fox Sports 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28404.ts
+#EXTINF:-1,VIP Fox Sports 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28405.ts
+#EXTINF:-1,VIP Fox Sports 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28406.ts
+#EXTINF:-1,VIP Fox Sports 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28407.ts
+#EXTINF:-1,VIP Fox Sports 5
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28408.ts
+#EXTINF:-1,VIP Fox Sports 6
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28409.ts
+#EXTINF:-1,VIP Ziggo Sport
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28410.ts
+#EXTINF:-1,VIP Ziggo Sport Racing
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28411.ts
+#EXTINF:-1,VIP Ziggo Sport Select
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28412.ts
+#EXTINF:-1,VIP Ziggo Sport Golf
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28413.ts
+#EXTINF:-1,VIP Ziggo Sport Voetbal
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28414.ts
+#EXTINF:-1,VIP RMC Sport 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28429.ts
+#EXTINF:-1,VIP RMC Sport 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28430.ts
+#EXTINF:-1,VIP RMC Sport 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28431.ts
+#EXTINF:-1,VIP RMC Sport 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28432.ts
+#EXTINF:-1,VIP Sky Sport 24 IT
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28433.ts
+#EXTINF:-1,VIP Sky Sport Uno IT
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28434.ts
+#EXTINF:-1,VIP Sky Sport Serie A IT
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28435.ts
+#EXTINF:-1,VIP Sky Sport Arena IT
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28436.ts
+#EXTINF:-1,VIP Sky Sport Football IT
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28437.ts
+#EXTINF:-1,VIP Sky Sport NBA IT
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28438.ts
+#EXTINF:-1,VIP Sky Sport F1 IT
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28439.ts
+#EXTINF:-1,VIP Sky Sport MotoGP IT
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28440.ts
+#EXTINF:-1,VIP Sky Sport Collection IT
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28441.ts
+#EXTINF:-1,VIP Super Tennis IT
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28442.ts
+#EXTINF:-1,VIP UFC USA
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28443.ts
+#EXTINF:-1,VIP UFC on Fuel
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/28444.ts
+#EXTINF:-1,Abu Dhabi Sports 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30431.ts
+#EXTINF:-1,Abu Dhabi Sports 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30432.ts
+#EXTINF:-1,Abu Dhabi Sports 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30433.ts
+#EXTINF:-1,Abu Dhabi Sports 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30434.ts
+#EXTINF:-1,KSA Sport 1 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30435.ts
+#EXTINF:-1,Jordan Sport
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30439.ts
+#EXTINF:-1,Al Kass Sports 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30440.ts
+#EXTINF:-1,Al Kass Sports 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30441.ts
+#EXTINF:-1,Al Kass Sports 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30442.ts
+#EXTINF:-1,Al Kass Sports 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30443.ts
+#EXTINF:-1,Al Kass Sports 5
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30444.ts
+#EXTINF:-1,Oman Sport
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30446.ts
+#EXTINF:-1,Eleven Sports 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30853.ts
+#EXTINF:-1,Eleven Sports 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30854.ts
+#EXTINF:-1,Eleven Sports 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30855.ts
+#EXTINF:-1,Eleven Sports 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30856.ts
+#EXTINF:-1,Eleven Sports 5
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30857.ts
+#EXTINF:-1,Eleven Sports 6
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30858.ts
+#EXTINF:-1,FOX Sports MidWest
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30859.ts
+#EXTINF:-1,FOX Sports North
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30860.ts
+#EXTINF:-1,FOX Sports South
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30861.ts
+#EXTINF:-1,FOX Sports SouthEast
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30862.ts
+#EXTINF:-1,FOX Sports SouthWest
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30863.ts
+#EXTINF:-1,FOX Sports West
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30864.ts
+#EXTINF:-1,FOX Sports Prime Ticket
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30865.ts
+#EXTINF:-1,VIP FREESPORTS
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/30869.ts
+#EXTINF:-1 group-title="United Kingdom",*--- UNITED KINGDOM ---*
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/214237.ts
+#EXTINF:-1,COVID-19 Updates
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/153884.ts
+#EXTINF:-1,ITV 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/242508.ts
+#EXTINF:-1,ITV 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/210.ts
+#EXTINF:-1,ITV 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/211.ts
+#EXTINF:-1,ITV 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/212.ts
+#EXTINF:-1,ITV LONDON
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/209.ts
+#EXTINF:-1,ITV BE
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/185.ts
+#EXTINF:-1,BBC 1 (Northern Ireland) | SD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26905.ts
+#EXTINF:-1,London LIVE
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27157.ts
+#EXTINF:-1,BBC 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26902.ts
+#EXTINF:-1,BBC Parliament
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/106.ts
+#EXTINF:-1,BBC 2 (Wales) SD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/111.ts
+#EXTINF:-1,BBC 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/153518.ts
+#EXTINF:-1,BBC 3
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26903.ts
+#EXTINF:-1,BBC 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/103.ts
+#EXTINF:-1,UK: CBBC
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27110.ts
+#EXTINF:-1,Sky News
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27171.ts
+#EXTINF:-1,UK: VIRGIN SPORT IRELAND
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/242499.ts
+#EXTINF:-1,UK:  Eurosport 1 LOW
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3279.ts
+#EXTINF:-1,UK: Eir Sport 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27050.ts
+#EXTINF:-1,UK: Eir Sport 1 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27051.ts
+#EXTINF:-1,UK: Eir Sport 2 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27053.ts
+#EXTINF:-1,Eurosport 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27056.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27055.ts
+#EXTINF:-1,Eurosport 2 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27058.ts
+#EXTINF:-1,UK: Eurosport 2 SD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/3225461.ts
+#EXTINF:-1,UK: FreeSports
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27063.ts
+#EXTINF:-1,UK: FreeSports HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27064.ts
+#EXTINF:-1,UK: FREESPORTS | (Backup)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/73.ts
+#EXTINF:-1,UK: Motors TV
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27067.ts
+#EXTINF:-1,VIP PREMIER SPORTS 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27104.ts
+#EXTINF:-1,UK: PREMIER SPORTS 1 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27456.ts
+#EXTINF:-1,UK: PREMIER SPORTS 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27105.ts
+#EXTINF:-1,VIP PREMIER SPORTS 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/74.ts
+#EXTINF:-1,UK: CNBC
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27162.ts
+#EXTINF:-1,UK: CNN
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27164.ts
+#EXTINF:-1,UK: CNN HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27165.ts
+#EXTINF:-1,UK: Euro News | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/109.ts
+#EXTINF:-1,UK: Euronews
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27166.ts
+#EXTINF:-1,UK: RT News
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/38913.ts
+#EXTINF:-1,RTE News Now
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/225.ts
+#EXTINF:-1,VIP RTE 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/153513.ts
+#EXTINF:-1,VIP RTE 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/153514.ts
+#EXTINF:-1,Sky News Arabia
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27172.ts
+#EXTINF:-1,UK: Sky One
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26954.ts
+#EXTINF:-1,UK: Sky Arts HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26952.ts
+#EXTINF:-1,Sky Arts
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/172.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26953.ts
+#EXTINF:-1,UK: Sky Atlantic | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/188.ts
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/139.ts
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26978.ts
+#EXTINF:-1,UK: Sky Cinema Action & Adventure HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26979.ts
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26925461.ts
+#EXTINF:-1,UK: Sky Cinema Comedy (Backup)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/140.ts
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26982.ts
+#EXTINF:-1,UK: Sky Cinema Disney
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/141.ts
+#EXTINF:-1,UK: Sky Cinema Disney
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26984.ts
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/142.ts
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26986.ts
+#EXTINF:-1,UK: Sky Cinema Family
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/143.ts
+#EXTINF:-1,UK: Sky Cinema Family
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26988.ts
+#EXTINF:-1,UK: Sky Cinema Greats
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/144.ts
+#EXTINF:-1,UK: Sky Cinema Greats
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26991.ts
+#EXTINF:-1,UK: Sky Cinema Greats HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26992.ts
+#EXTINF:-1,UK: Sky Cinema Hits
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/145.ts
+#EXTINF:-1,UK: Sky Cinema Hits
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26993.ts
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/146.ts
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26996.ts
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26999.ts
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27001.ts
+#EXTINF:-1,UK: Sky Cinema Thriller
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/149.ts
+#EXTINF:-1,UK: Sky Movies Action & Adventure FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27004.ts
+#EXTINF:-1,UK: Sky Movies Comedy FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27007.ts
+#EXTINF:-1,UK: Sky Movies Disney FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27013.ts
+#EXTINF:-1,UK: Sky Movies Drama & Romance FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27016.ts
+#EXTINF:-1,UK: Sky Movies Family FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27019.ts
+#EXTINF:-1,UK: Sky Movies Greats FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27022.ts
+#EXTINF:-1,UK: Sky Movies Premiere FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27027.ts
+#EXTINF:-1,UK: Sky Movies Select
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27033.ts
+#EXTINF:-1,Sky 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/170.ts
+#EXTINF:-1,UK: Sky 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/171.ts
+#EXTINF:-1,UK: 3E HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26894.ts
+#EXTINF:-1,UK: 4seven
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26895.ts
+#EXTINF:-1,UK: 4 Seven | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/75.ts
+#EXTINF:-1,UK: 5 Spike
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26896.ts
+#EXTINF:-1,UK: 5 Spike UK
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26897.ts
+#EXTINF:-1,UK: 5 USA
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26899.ts
+#EXTINF:-1,UK: Al Jazeera English HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27154.ts
+#EXTINF:-1,UK: Alibi
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26901.ts
+#EXTINF:-1,UK: Alibi HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/190.ts
+#EXTINF:-1,UK: AMC | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/159.ts
+#EXTINF:-1,UK: Animal Planet
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27126.ts
+#EXTINF:-1,Animal Planet
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/122.ts
+#EXTINF:-1,Baby TV SD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27106.ts
+#EXTINF:-1,UK: BET
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26906.ts
+#EXTINF:-1,UK: BET | SD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/166.ts
+#EXTINF:-1,UK: Blaze
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/15904.ts
+#EXTINF:-1,UK: Boomerang
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/89.ts
+#EXTINF:-1,UK: Boomerang
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27107.ts
+#EXTINF:-1,UK: BOX NATION
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27038.ts
+#EXTINF:-1,Box Nation
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/78.ts
+#EXTINF:-1,UK: BOX OFFICE 1 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26969.ts
+#EXTINF:-1,UK: BOX OFFICE 2 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26971.ts
+#EXTINF:-1,UK: BOX OFFICE 3 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26973.ts
+#EXTINF:-1,UK: BOX OFFICE 4 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26975.ts
+#EXTINF:-1,UK: BOX OFFICE 5 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26977.ts
+#EXTINF:-1,Cartoon Network
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/114.ts
+#EXTINF:-1,Cartoonito
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/120.ts
+#EXTINF:-1,Cbeebies
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/121.ts
+#EXTINF:-1,UK: CBS ACTION
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/183.ts
+#EXTINF:-1,UK: CBS Action
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26907.ts
+#EXTINF:-1,UK: CBS Drama
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26908.ts
+#EXTINF:-1,UK: CBS DRAMA | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/138.ts
+#EXTINF:-1,UK: CBS Reality
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/176.ts
+#EXTINF:-1,UK: Challenge
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/15902.ts
+#EXTINF:-1,UK: Channel 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/164.ts
+#EXTINF:-1,UK: Channel 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26910.ts
+#EXTINF:-1,UK: Channel 5
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/165.ts
+#EXTINF:-1,UK: Channel 5
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26911.ts
+#EXTINF:-1,UK: COMEDY CENTRAL
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/131.ts
+#EXTINF:-1,UK: Crime & Investigation
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27129.ts
+#EXTINF:-1,UK: Cruise1st TV
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26915.ts
+#EXTINF:-1,DAVE JA VU
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26918.ts
+#EXTINF:-1,Dave
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/169.ts
+#EXTINF:-1,BT SPORT EXTRA
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27131.ts
+#EXTINF:-1,UK: Discovery History
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/127.ts
+#EXTINF:-1,Discovery History
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27132.ts
+#EXTINF:-1,Discovery Science
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27133.ts
+#EXTINF:-1,Discovery Shed
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/128.ts
+#EXTINF:-1,Discovery Turbo
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27135.ts
+#EXTINF:-1,Disney Channel
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/115.ts
+#EXTINF:-1,Disney JR
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/116.ts
+#EXTINF:-1,Disney XD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/117.ts
+#EXTINF:-1,UK: DMAX
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26917.ts
+#EXTINF:-1,DMAX
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/136.ts
+#EXTINF:-1,UK: Drama
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/137.ts
+#EXTINF:-1,UK: Drama
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26919.ts
+#EXTINF:-1,E! Entertainment
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/192.ts
+#EXTINF:-1,UK: E4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26921.ts
+#EXTINF:-1,UK: E4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/178.ts
+#EXTINF:-1,UK: Eden
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26922.ts
+#EXTINF:-1,UK: Fightbox FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27062.ts
+#EXTINF:-1,UK: Film 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/175.ts
+#EXTINF:-1,UK: Food Network
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/193.ts
+#EXTINF:-1,UK: Food Network
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26925.ts
+#EXTINF:-1,UK: FOX
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26923.ts
+#EXTINF:-1,GOLD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26926.ts
+#EXTINF:-1,UK: H2 | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/222.ts
+#EXTINF:-1,UK: History
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27137.ts
+#EXTINF:-1,UK: History
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/125.ts
+#EXTINF:-1,UK: Home
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26928.ts
+#EXTINF:-1,UK: Horror Channel
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26930.ts
+#EXTINF:-1,UK: Horror Channel 1 | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/194.ts
+#EXTINF:-1,UK: ID
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/187.ts
+#EXTINF:-1,UK: Islam TV UK
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27214.ts
+#EXTINF:-1,UK: Kiss TV
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27141.ts
+#EXTINF:-1,UK: LFC Liverpool TV
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/217.ts
+#EXTINF:-1,UK: LFC TV
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/112.ts
+#EXTINF:-1,UK: Lifetime
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26935.ts
+#EXTINF:-1,UK: Lifetime
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/134.ts
+#EXTINF:-1,UK: More 4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/229.ts
+#EXTINF:-1,UK: MTV
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/196.ts
+#EXTINF:-1,UK: MTV
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26939.ts
+#EXTINF:-1,UK: MTV Base
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27143.ts
+#EXTINF:-1,UK: MTV Classic
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27144.ts
+#EXTINF:-1,UK: MTV Classic | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/201.ts
+#EXTINF:-1,UK: MTV Hits
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27145.ts
+#EXTINF:-1,UK: MTV Hits
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/203.ts
+#EXTINF:-1,UK: MTV Music | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/204.ts
+#EXTINF:-1,UK: MTV Rocks
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27146.ts
+#EXTINF:-1,Nat Geo Wild
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27138.ts
+#EXTINF:-1,Nat Geo
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27139.ts
+#EXTINF:-1,Nick Jr
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27117.ts
+#EXTINF:-1,Nick Jr Too
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27120.ts
+#EXTINF:-1,Nickelodeon
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/119.ts
+#EXTINF:-1,UK: Nicktoons
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27637485.ts
+#EXTINF:-1,Paramount
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/235.ts
+#EXTINF:-1,UK: PICK TV
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/231.ts
+#EXTINF:-1,UK: PICK TV
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/240.ts
+#EXTINF:-1,UK: POP Max
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/239.ts
+#EXTINF:-1,UK: Quest RED
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/162.ts
+#EXTINF:-1,UK: Quest | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/236.ts
+#EXTINF:-1,UK: QVC
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26940.ts
+#EXTINF:-1,UK: QVC Beauty
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26942.ts
+#EXTINF:-1,UK: QVC Extra
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26944.ts
+#EXTINF:-1,RTE 1
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/218.ts
+#EXTINF:-1,RTE 2
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/219.ts
+#EXTINF:-1,RTE Jr
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/224.ts
+#EXTINF:-1,UK: S4C HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26951.ts
+#EXTINF:-1,UK: Sony TV
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/82.ts
+#EXTINF:-1,UK: Spike | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/226.ts
+#EXTINF:-1,UK: Star Gold
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/83.ts
+#EXTINF:-1,Gold (Backup)
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27246.ts
+#EXTINF:-1,UK: SYFY
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/151.ts
+#EXTINF:-1,UK: TCM
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27147.ts
+#EXTINF:-1,UK: TG4
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/234.ts
+#EXTINF:-1,UK: Tiny POP
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27125.ts
+#EXTINF:-1,UK: TLC  | UHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/221.ts
+#EXTINF:-1,UK: Travel Channel
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/167.ts
+#EXTINF:-1,UK: Travel Channel
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26958.ts
+#EXTINF:-1,UK: Tru TV HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26957.ts
+#EXTINF:-1,UK: True Movies
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/152.ts
+#EXTINF:-1,UK: UFC NIGHT PASS
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27100.ts
+#EXTINF:-1,UK: UFC Fight Pass HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/27101.ts
+#EXTINF:-1,UK: Universal
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/15903.ts
+#EXTINF:-1,UK: VH1 | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/168.ts
+#EXTINF:-1,UK: Virgin Media 1 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/34372.ts
+#EXTINF:-1,UK: Virgin Media 2 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26963.ts
+#EXTINF:-1,UK: Watch
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26964.ts
+#EXTINF:-1,Watch
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/160.ts
+#EXTINF:-1,UK: YESTERDAY
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/182.ts
+#EXTINF:-1,UK: Yesterday
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/26965.ts
+#EXTINF:-1,UK: ZEE TV | HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/242.ts
+#EXTINF:-1,UK | Now 90s
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/158442.ts
+#EXTINF:-1,UK Really
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/153856.ts
+#EXTINF:-1,UK Sky Arts FHD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/153858.ts
+#EXTINF:-1,UK Sky Witness
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/153857.ts
+#EXTINF:-1,UK SYFY
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/153855.ts
+#EXTINF:-1,UK ZEE AFLAM
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/153881.ts
+#EXTINF:-1,UK ZEE ALWAN
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/153882.ts
+#EXTINF:-1,UK: RTE NEWS
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/259418.ts
+#EXTINF:-1,UK: Virgin Media 3 HD
+http://links.iptvlogin.com:25461/live/CatherineMarm/637485/259419.ts
